@@ -11,7 +11,7 @@ a variable without assigning it to a value. You also can't do 3 --4 5 if there
 is not a space between the negatives.The evalatePostFix class does the actual math
 for everything. 
 
-Extra Credit:
+Additionally:
  - the user is able to show a specific variable by typing show var, just as they
  would for clearing a specific variable
  - i added a final double for pi, so if the user wanted to find out the value of pi,
